@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fYIiWQguHRQi+EOm4OBiJsyWFuY+QSEjZ7My7r5/afSlMI0mWAll6IEpfw2e09V1cnGTGNxfMpZ56xHXb6TVoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Togrul\\Desktop\\p3262\\Project0\\Project0\\Project0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Togrul\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Togrul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
